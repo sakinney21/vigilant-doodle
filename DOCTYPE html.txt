@@ -5,7 +5,7 @@
     </head>
     <body>
         
-        <h1>Life in my Shoes</h1>
+        <h1> Life in my Shoes </h1>
         <p>My name is Sarah</p>
     </body>
 </html>

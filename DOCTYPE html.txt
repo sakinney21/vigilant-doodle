@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title> My Website </tiltle>
+        <title> My stories page </tiltle>
     </head>
     <body>
         
-        <h1>My Website</h1>
-        <p>My name is Tammy</p>
+        <h1>Life in my Shoes</h1>
+        <p>My name is Sarah</p>
     </body>
 </html>
